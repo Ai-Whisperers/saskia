@@ -1,10 +1,10 @@
-﻿# Session notes — 2026-08-05 WhatsApp (excerpt)
+# Session notes — 2026-08-05 WhatsApp (excerpt)
 
-Source: chat with Saskia (Saskia Opa) / K.W.
+Source: chat with Saskia / K.W.
 
 ## Asks
 
-- Show HEREBUS work already done (in-person Friday).
+- Show food-business work already done (in-person Friday).
 - Understand where admin Excels live in the repo.
 - Lock Excels so Hermes does not change them freely; still allow future Hermes updates for production/sales.
 - Build website + get WhatsApp Business.

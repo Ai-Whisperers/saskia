@@ -1,11 +1,11 @@
-CUESTIONARIO HEREBUS
+CUESTIONARIO SASKIA
 Definicion del producto - lo que vamos a construir
 Para: Saskia Weiss Vander  |  De: K.W. / equipo  |  Fecha: agosto 2026
 Instrucciones: marca con una X las opciones que aplican. Puedes responder en cualquier orden. "No se" esta bien. Este documento define que SI entra en el producto (pagina, WhatsApp Business, Excels de administracion, Hermes) y que queda afuera.
 A. Contexto del negocio
 A1. Nombre comercial y marca
 Por que importa: Define el nombre en la pagina, WhatsApp e Instagram.
-[ ] HEREBUS
+[ ] Saskia
 [ ] Otro nombre (escribilo abajo)
 [ ] Todavia no decidi / quiero ayuda a elegir
 Respuesta / notas: _______________________________________________
@@ -158,14 +158,14 @@ Por que importa: Hay diseno borrador en el repo; lo quieres en v1?
 [ ] Mas adelante
 Respuesta / notas: _______________________________________________
 ________________________________________________________________
-D. Excels de administracion (HEREBUS) y Hermes
+D. Excels de administracion (Saskia) y Hermes
 Hoy viven en el repo privado Ai-Whisperers/saskia-personal-context, carpeta 04_foodbiz-management-system/data/.
 D1. Cuales de estos libros usas o quieres usar?
 Por que importa: Prioriza que fijamos primero.
-[ ] HEREBUS_FoodBiz.xlsx (inventario + recetas + produccion + waste + P&L)
-[ ] HEREBUS_Suppliers.xlsx (proveedores y precios)
-[ ] HEREBUS_Analisis.xlsx (KPI / pricing / riesgos / wishlist)
-[ ] HEREBUS_Comparacion_Proveedores.xlsx
+[ ] Saskia_FoodBiz.xlsx (inventario + recetas + produccion + waste + P&L)
+[ ] Saskia_Suppliers.xlsx (proveedores y precios)
+[ ] Saskia_Analisis.xlsx (KPI / pricing / riesgos / wishlist)
+[ ] Saskia_Comparacion_Proveedores.xlsx
 [ ] RECETARIO_EN_BLANCO.xlsx (plantilla nuevas recetas)
 [ ] Todavia no abri ninguno - necesito tour el viernes
 [ ] Prefiero Google Sheets en el celular, no Excel del repo
