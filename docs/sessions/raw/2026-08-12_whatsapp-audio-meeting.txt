@@ -1,0 +1,85 @@
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
+
+Conversation with Saskia Now that you're doing your BAS, you're going to have to fill out the online form on your own. What we help you do is the document of what the Constitution is. It's something very generic.
+
+It's something I have to present. Yes, exactly. And that's what you can generate with IA, because you're not going to be writing a paper of 20 pages with 20 different clauses with terms that you don't even understand.
+
+That and they also have the image advice service, more or less. Yes, advice from Marga's manual. Yes, where everything that is consistent with the website, the visual of the website, and they also have the part of photography and that.
+
+I understood that well. The part of photography and Marga's manual, for example, handles more Luana. Yes, in the last conversation I was there, I didn't understand anything.
+
+And well, what we do later with IA is, well, that's your setup. Okay. Which could, depending on what you want... Currently, I know that I only need the onboarding and I need the setup of the website, but later I would like to get into legalizing the documents.
+
+Because in your case, for example, what we can do as a freebie for you is send you what would be Marga's manual and you complete it yourself. Ah, like, instead of you asking me questions and completing them for me, I just go and complete the manual. Which is a form that you made.
+
+Yeah. Yeah, I can do that, but no need to make it a freebie. But how much do you charge for these things? Like, do you charge individually? It depends on how much we are going to be putting in our hands.
+
+But the ideal thing would be that all the initial setup of the page... Onboarding? It would be the onboarding, Marga's manual, the company's constitution, the website, all that would be the initial setup. Okay. Plus the hosting of the page.
+
+Ah, okay, you do the hosting with the hostings. Yes. And that would be an initial payment of 2.5 million.
+
+And then what happens? Then you have to either monthly or annually pay for the hosting of your page. How much is that afterwards? That's like 150,000 to 200,000 monthly. Or if you pay annually, it's cheaper.
+
+How much annually? 2 million... 1.8 million, something like that. So, in total, let's say, it would be like 4 million, 5 million, something like that. What they would charge for the services and then they also take and do... And the hosting and the monthly or annual payment that you do, does that include you if you have a problem with your page or you want to make a change? Like... yes.
+
+Yes. I... Most of what I've been doing so far, I've been doing it myself. I would like to do the legal part later on.
+
+I don't think it's necessary yet. The only thing I need now is that what I already did in Hermes, that it's up and running and that they make sure that it is working properly. And that everything that I already did, that it's kind of sealed, that it can't be changed and put that in a place where I can access to work with it still.
+
+But... And I also need the WhatsApp, like the WhatsApp bot setup, the WhatsApp business, the IREA. But that's also what I've been doing with Erebus or Hermes. Because... That's another thing we've been talking about a lot with Ivan, the fact that there are a lot of things that are happening in our servers.
+
+For example, we, suddenly, if this page is under your domain, that it's not a subdomain of our page, which I don't think is necessary for you. No, you don't think so? No, because your page... Like, suddenly, pages like Mom's Business, do need their own domain because it's more professional. Like, yours is more of a visual aid for people to find you.
+
+Yes. So, like, people are not going to focus so much on your domain. Yes, so, like, I would also have a domain maintenance relationship with you, which is the... But what I would say, for example, is that people... For example, Wesley is a client who wants us to do all the agent setup for him.
+
+In which we basically create a hosting, we create servers with our agents, we create the whole WhatsApp chat system, but that it has its own context and external server to us. Yes, yes. Because what happens now with the conversations you have with Hermes is that it joins with the context of the whole company.
+
+Yes. No, no, no. And suddenly, I'm in a private chat with Hermes, and he brings up topics like... Sage and stuff, and I'm like, what the hell? Yes, yes, yes.
+
+I've been experiencing that as well. If you don't see it necessary to separate, it's better to just leave it as it is, because it's going to be done soon enough. But the part of... I linked it with a Google Drive, because I want to link everything to a specific email, which is the email of the cow.
+
+So everything that works with that, works with that email. Because what I understand that you also have, it's like, you don't just want a page for people to find you, but you also want to have an administrator panel in which you can have the account of your inventory, of what you sell, of what you buy, of what your income is. Have you already seen it? No, I haven't.
+
+But you have to... And that, for example, a database, that part, for example, I don't think your database needs to be that big, because I don't think you have that many things. And... I don't think you have more than 100 products. Tell me later what you see there.
+
+I can do an analysis. Analyze what I already have. And on that side, even the fact that you can get orders through the page and that it alerts you to your... That it goes to WhatsApp.
+
+To your email, your WhatsApp, whatever, everything can be linked, but that, for example, is already more than a single page. Yes. So it has more... things to take into account and more technical maintenance than the third party.
+
+Yeah. Okay. And I don't want to tell you that part because suddenly Ivan is the one who understands what other things have to be taken into account for that, but I know what it is.
+
+User panel. Administrator panel. You need a database for all your users.
+
+You need a database for all your ingredients. You need a database for all your products. You need a database for all your purchases.
+
+You need a database for your invoices. You need a database for your schedules. Yes.
+
+I mean, it's a lot of things. A database for orders. A database for your orders.
+
+I mean, it's a lot of things that... Also... Because it's in the audio. Also a database for mermaid registration. What is mermaid? Waste.
+
+Waste tracking for... It helps you with... Like, what are you losing? Yes, it helps you to see if you're losing in some specific products. But also a database for registration... Planning for orders. Planning for purchases.
+
+Planning for production and that. That, for example, is also because you're going to have there, basically... Did you see that all companies have their own workflows? Not program workflows, but workflows. Yes.
+
+You have everything that is... Like, the administration workflow, for example. Which is the one in charge of planning when you make the purchases, when you have to cook, when there are sales, when to schedule the orders, all that production. Then you have your marketing workflow.
+
+In which you take the photos, create the content, upload it. You see the visualizations, how it was, what you have to upload more, what you have to upload less. You have the workflows that are... I don't know what else it would be, like in this case... Like the payment workflow, for example.
+
+From when you make the order until they pay you, until you deliver. Later on, the management workflow, the personal one too. Yes, like, it's a lot.
+
+And database for schedules. Basically, what you're going to have is an industrial structure of how... An administrative agent of each specific area of the company. And... That's going to be expensive.
+
+Like, it's between what... You know what happens? It's a very good way to optimize because it's very scalable. Once you have it running, even 10 years from now, when you grow your company and you have to produce 30,000 things a day, you're going to keep using this. I'm starting with this because I don't want to start manually with databases.
+
+I really know how important it is to register the numbers for a successful restaurant enterprise. And that's why I'm working on this part. What I can do with this is really analyze how much work it's going to take and give you specific numbers.
+
+And from there... Because once you have the numbers, you're going to be able to prioritize what's most important to you right now. As a company, the most important thing right now for me is that my recipe book and my inventory and my planning and my WhatsApp are running. So I can start producing and have clients.
+
+And produce and register the numbers to see how profitable I am. That's the most important thing that I myself say, this is important. And also now I still have to buy this or that.
+
+I was using as an assistant in the making of certain economic decisions, I was using the assistant to Erebus or Hermes to see which are the options that are best for me. Taya, you're doing great. Yeah, I know.
+
+It's always good. I think that's enough information for today.
+
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
