@@ -3,7 +3,8 @@
 **Last updated:** 2026-08-12  
 **Based on:** WhatsApp kickoff (2026-08-05) + meeting audio (2026-08-12)  
 **Repos:** https://github.com/Ai-Whisperers/saskia  
-**Ops / Excels:** `Ai-Whisperers/saskia-personal-context` → `04_foodbiz-management-system/`
+**Ops / Excels:** `Ai-Whisperers/saskia-personal-context` → `04_foodbiz-management-system/`  
+**Doc index:** [README.md](README.md) · [INFO-FROM-SASKIA.md](INFO-FROM-SASKIA.md) · [DELIVERABLES.md](DELIVERABLES.md)
 
 ---
 
@@ -32,7 +33,7 @@ Saskia can **produce, sell via WhatsApp, and register numbers** without Hermes r
 | # | Action | Owner | Done when |
 |---|---|---|---|
 | 1.1 | Clone/open `saskia-personal-context` locally | Team | Repo available for Friday-style tour |
-| 1.2 | List live workbooks under `04_foodbiz-management-system/data/` and who last changed them | Team | Short inventory table in `docs/analysis/existing-assets.md` |
+| 1.2 | List live workbooks under `04_foodbiz-management-system/data/` and who last changed them | Team | ~~Short inventory~~ → [analysis/existing-assets.md](analysis/existing-assets.md) (git inventory done; Drive map TBD) |
 | 1.3 | Map “what Saskia did in Hermes” → files/Drive/Sheets vs git | Team + Saskia | Gaps list: missing / duplicated / only-on-Drive |
 | 1.4 | Note Hermes context-bleed issue (company topics in her chat) | Team | Decision logged: isolate later vs leave for now |
 
@@ -45,7 +46,7 @@ Saskia can **produce, sell via WhatsApp, and register numbers** without Hermes r
 | # | Action | Owner | Done when |
 |---|---|---|---|
 | 2.1 | Reaffirm hard rules: Python regenerates xlsx; no free hand-edits by agents | Team | Rules visible in personal-context `AGENTS.md` (already) + short “how Saskia edits” one-pager in this repo |
-| 2.2 | Define **allowlist** of what Hermes may update later (production rows, waste, stock) vs **never without OK** (prices, recipes, identity) | Team + Saskia | Written policy in `docs/operations/hermes-edit-policy.md` |
+| 2.2 | Define **allowlist** of what Hermes may update later (production rows, waste, stock) vs **never without OK** (prices, recipes, identity) | Team + Saskia | Draft ready: [operations/hermes-edit-policy.md](operations/hermes-edit-policy.md) — confirm with her |
 | 2.3 | Implement gate: agent changes via PR / preview / approval (not silent overwrite) | Team | Documented procedure; at least one dry-run |
 | 2.4 | Give Saskia a single “open here to work” path (Drive and/or local Excel + link to repo backup) | Team | She can open and edit without asking where files are |
 
@@ -149,13 +150,18 @@ Saskia can **produce, sell via WhatsApp, and register numbers** without Hermes r
 
 ## File map for this doc set
 
+See full index: [README.md](README.md).
+
 | Doc | Role |
 |---|---|
 | `docs/NEXT-STEPS.md` | **This file** — ordered actions |
-| `docs/sessions/2026-08-12_meeting-audio-notes.md` | Meeting extract + pricing |
-| `docs/intake/Cuestionario-Saskia.docx` | Product questions (ES) |
-| `docs/analysis/` | Git/Cursor inventory; add `existing-assets.md` in Step 1 |
-| `docs/operations/` | Create in Steps 2–4 (`hermes-edit-policy.md`, `whatsapp-mvp.md`) |
+| `docs/INFO-FROM-SASKIA.md` | What she must provide |
+| `docs/DELIVERABLES.md` | What we ship |
+| `docs/PACKAGE-AND-PRICING.md` | Packages + Gs. figures |
+| `docs/sessions/2026-08-12_meeting-audio-notes.md` | Meeting extract |
+| `docs/intake/` | Questionnaire + partial answers |
+| `docs/analysis/existing-assets.md` | Asset inventory |
+| `docs/operations/` | Hermes policy, edit path, WhatsApp MVP |
 
 ---
 
