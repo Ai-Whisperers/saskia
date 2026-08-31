@@ -1,8 +1,9 @@
 # Deliverables we should have ready
 
-**Last updated:** 2026-08-12  
+**Last updated:** 2026-08-31  
 **Owner:** team (K.W. / Ai-Whisperers)  
-**Client:** Saskia Weiss Vander
+**Client:** Saskia Weiss Vander  
+**Lock:** [CURRENT-CONTEXT.md](CURRENT-CONTEXT.md) — RMS local, not a website.
 
 ---
 
@@ -12,7 +13,7 @@
 |---|---|---|---|
 | A1 | Ordered next-steps plan | [NEXT-STEPS.md](NEXT-STEPS.md) | Done |
 | A2 | Info checklist for her | [INFO-FROM-SASKIA.md](INFO-FROM-SASKIA.md) | Done |
-| A3 | Scope + pricing one-pager | [PACKAGE-AND-PRICING.md](PACKAGE-AND-PRICING.md) | Done (figures from calls; confirm buy) |
+| A3 | Scope + pricing | [CURRENT-CONTEXT.md](CURRENT-CONTEXT.md) · [PACKAGE-AND-PRICING.md](PACKAGE-AND-PRICING.md) | Locked 31 Aug — Gs. 17.500.000 / 24 cuotas |
 | A4 | Spanish questionnaire | `intake/Cuestionario-Saskia.*` | Done |
 | A5 | Partial answers from meetings | `intake/answers-from-meetings.md` | Done (partial) |
 | A6 | Existing assets inventory | `analysis/existing-assets.md` | Done (git-side; Drive gaps TBD with her) |
@@ -24,25 +25,25 @@
 
 ---
 
-## B. P0 delivery (what we ship for “valió la pena”)
+## B. Fase 1 delivery (signed quote)
 
 | # | Deliverable | Done when |
 |---|---|---|
-| B1 | **Sealed admin setup** | One clear work path; Hermes cannot silently overwrite sealed sheets |
-| B2 | **Recipes + inventory + planning usable** | V1 list costed/planned for one real week |
-| B3 | **Sales / numbers log** | She can register a sale and see a basic profitability signal |
-| B4 | **WhatsApp path live** | Business profile + test order → her notification |
-| B5 | **Written Hermes policy** | Allow/deny + approval gate agreed and followed |
+| B1 | **RMS installed on her PC** | App opens on the machine named on the quote |
+| B2 | **Recipes + inventory + products/prices** | Loaded from Drive Excels; she can edit |
+| B3 | **Sales + dashboard (margins, ranking, low-stock)** | She can register a sale and see where money is |
+| B4 | **Excel import/export** | Export is her backup |
+| B5 | **Onboarding + 2 review rounds** | She can run it without us in the room |
 
 ---
 
-## C. P1 (after P0 or if capacity)
+## C. Later (not in the signed quote)
 
 | # | Deliverable | Done when |
 |---|---|---|
-| C1 | Site MVP brief | Landing + menu + CTA WhatsApp agreed |
-| C2 | Live visual-aid site | URL online; domain optional |
-| C3 | Hosting quote accepted/declined | Monthly vs annual offer in writing |
+| C1 | Public website | Local is running; new quote |
+| C2 | Planning assistant | She reopens Gs. 9.500.000; not in current PDF |
+| C3 | WhatsApp bot / tables / SET | Separate quote |
 
 ---
 
@@ -51,7 +52,7 @@
 | # | Deliverable | Location | Status |
 |---|---|---|---|
 | D1 | Admin-panel phased estimate | `analysis/admin-panel-estimate.md` | Done (draft ranges) |
-| D2 | Isolate Hermes context/server option | Same doc / PACKAGE | Noted |
+| D2 | Dedicated Hermes server | **Not this client** (John). Do not estimate as Saskia SKU | Void |
 | D3 | Deferred SKUs (legal, Marga) | PACKAGE-AND-PRICING | Done |
 
 ---
@@ -62,18 +63,17 @@
 - Full multi-DB admin platform  
 - Payment gateway / SET  
 - Automatic silent Hermes edits to prices/recipes  
-- Mixing her agent context with company topics without a later isolate project  
+- Dedicated Hermes / “Wesley-style” server (John’s SKU)  
 
 ---
 
 ## Handoff checklist for a working session
 
 ```
-[ ] Open NEXT-STEPS as agenda
-[ ] Confirm package (PACKAGE-AND-PRICING)
-[ ] Walk existing-assets with her (Excel open)
-[ ] Confirm hermes-edit-policy allow/deny
-[ ] Agree WhatsApp MVP option
-[ ] Capture missing INFO-FROM-SASKIA answers live
+[ ] Open CURRENT-CONTEXT + NEXT-STEPS as agenda
+[ ] Confirm signed-quote scope (local RMS, 24 cuotas, no hosting)
+[ ] Walk Drive Excels / existing-assets
+[ ] Confirm PC for install
+[ ] Capture missing INFO-FROM-SASKIA answers
 [ ] End with written “next 3 actions” + owners
 ```

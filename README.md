@@ -4,10 +4,10 @@ Client engagement repository for **Saskia Weiss Vander** (food / bakery business
 
 ## Start here
 
-1. **[docs/README.md](docs/README.md)** — full documentation index  
+1. **[docs/CURRENT-CONTEXT.md](docs/CURRENT-CONTEXT.md)** — locked product + price (read this first)  
 2. **[docs/NEXT-STEPS.md](docs/NEXT-STEPS.md)** — ordered following steps  
-3. **[docs/INFO-FROM-SASKIA.md](docs/INFO-FROM-SASKIA.md)** — what she must provide  
-4. **[docs/DELIVERABLES.md](docs/DELIVERABLES.md)** — what we prepare / ship  
+3. **[docs/PACKAGE-AND-PRICING.md](docs/PACKAGE-AND-PRICING.md)** — fase 1 numbers  
+4. **[docs/README.md](docs/README.md)** — full documentation index  
 
 ## What lives here
 
@@ -37,6 +37,5 @@ SaskiaWeiss1234/*                     ← Saskia's public bootcamp repos
 
 ## Status
 
-- Docs set completed: 2026-08-12  
-- P0 focus: seal Hermes work + recipes/inventory/planning + WhatsApp  
-- Website / legal / full admin panel: priced later (see PACKAGE-AND-PRICING + admin-panel-estimate)  
+- **31 Aug 2026:** product is RMS **local on her PC**. Quote: Gs. 17.500.000 in 24 cuotas. No hosting month. Website later. Dedicated Hermes is not this client.  
+- 12 Aug website/P0 packages are historical — see CURRENT-CONTEXT.  

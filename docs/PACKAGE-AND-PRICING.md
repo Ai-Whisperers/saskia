@@ -1,75 +1,42 @@
-# Package and pricing (from conversations)
+# Package and pricing
 
-**Last updated:** 2026-08-12  
-**Sources:** Meeting audio 2026-08-12; WhatsApp kickoff 2026-08-05  
-**Currency:** Guaraníes (Gs.)  
-**Status:** Figures as **discussed**, not a signed quote. Confirm before invoicing.
+**Last updated:** 2026-08-31  
+**Locked context:** [CURRENT-CONTEXT.md](CURRENT-CONTEXT.md)  
+**Sendable (hub):** Company-Information `docs/clients/2026-08-18-saskia-weiss-vander.md`  
+**Status:** Fase 1 numbers below are the **quote to sign**. Older 12 Aug packages are historical only.
 
 ---
 
-## Recommended sell: Package P0 (matches her priorities)
+## What she is buying (fase 1)
 
-| Included | Notes |
+Restaurant management system **on her computer**: products, prices, recipes, inventory, sales, margins. Base = her Google Drive Excels (import/export). **No monthly hosting.**
+
+| Item | Amount | When |
+|---|---|---|
+| **Setup — RMS fase 1 (local)** | **Gs. 17.500.000** | 24 cuotas (Gs. 729.167; last Gs. 729.159). First on signature |
+| Extra / second PC / reinstall | **Gs. 250.000 / h** | Written OK first |
+| Hosting / ops monthly | **Gs. 0** | Not this product |
+
+---
+
+## Not in the signed quote
+
+| SKU | Status |
 |---|---|
-| Seal / protect existing Hermes + workbook system | Policy + gate + one work path |
-| Recipes + inventory + planning operational for V1 | Load prices; one week plan |
-| Simple sales / numbers registration | Even a dedicated tab is OK for v1 |
-| WhatsApp Business path MVP | Profile + order → notify her |
-| Inventory of what exists + gap list | Written |
-| **Not included:** constitution, full Marga delivery, full admin panel, payment gateway |
-
-**Price:** *to set* — must be below / separate from the Gs. 2.5M “full setup” pitch if she only wants P0.
+| Public website | After the local is running; quote then |
+| Planning assistant (day production, shopping list, calendar) | Internally **Gs. 9.500.000** — parked; she asked 20 Aug; **not in the PDF** |
+| Tables / KDS / card terminal | Out |
+| WhatsApp bot / SET / constitution | Out |
+| Dedicated Hermes on a server | **John’s SKU**, not Saskia |
 
 ---
 
-## Package discussed on call: “Initial setup” (broader)
+## Historical (12 Aug 2026) — do not sell
 
-| Included (as pitched) | Figure |
-|---|---|
-| Onboarding + Marga’s manual + company constitution + website + hosting setup | **Gs. 2.500.000** initial |
-| Hosting / maintenance monthly | **Gs. 150.000 – 200.000** |
-| Hosting annually (cheaper) | **~Gs. 1.800.000** |
-| Rough total said aloud (services + hosting) | **~Gs. 4–5 millones** |
-
-Monthly/annual (as stated): includes help if the page has problems or she wants changes.
-
-**Her stance:** needs onboarding + website later; legal **not yet**; P0 ops + WhatsApp + seal first.
+Gs. 2.500.000 “setup + Marga + constitution + website”, hosting Gs. 150.000–200.000/mes, annual ~Gs. 1.800.000, and “Wesley-style isolated Hermes” were **discussion notes**. Superseded 18–20 Aug.
 
 ---
 
-## Package P1 — Light website
+## Payment (same as sendable)
 
-| Item | Notes |
-|---|---|
-| Landing + menu/prices + CTA WhatsApp | No online payment |
-| Domain | Optional; not critical per call |
-| Hosting | Under monthly/annual above if sold |
-
----
-
-## Package P2 — Admin panel / industrial ops (estimate only)
-
-See [analysis/admin-panel-estimate.md](analysis/admin-panel-estimate.md).  
-Do **not** sell as one lump without phased quote.
-
----
-
-## Deferred SKUs
-
-| SKU | When |
-|---|---|
-| Company constitution / legalizing docs | After she asks |
-| Full Marga manual completed by team | Optional; she can fill form herself |
-| Isolated Hermes / separate server context | If context bleed becomes blocking |
-| Payment online / SET / multi-sucursal | Not in scope |
-
----
-
-## Decision needed from Saskia
-
-- [ ] Buy **P0 only** (recommended)  
-- [ ] Buy **full initial setup** (2.5M)  
-- [ ] Buy **P0 + P1 site** now  
-- [ ] Want **annual hosting** vs monthly  
-
-Record answer in `intake/answers-from-meetings.md`.
+Provisional until AI Whisperers has a company account: titular **Kyrian Weiss van der Pol**, alias **CI 5991039**, WhatsApp **0985 724 135**. Never `+595 991 501444`.

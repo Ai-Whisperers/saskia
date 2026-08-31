@@ -1,168 +1,73 @@
-# Saskia — Clear following steps
+# Saskia — next steps
 
-**Last updated:** 2026-08-12  
-**Based on:** WhatsApp kickoff (2026-08-05) + meeting audio (2026-08-12)  
-**Repos:** https://github.com/Ai-Whisperers/saskia  
-**Ops / Excels:** `Ai-Whisperers/saskia-personal-context` → `04_foodbiz-management-system/`  
-**Doc index:** [README.md](README.md) · [INFO-FROM-SASKIA.md](INFO-FROM-SASKIA.md) · [DELIVERABLES.md](DELIVERABLES.md)
+**Last updated:** 2026-08-31  
+**Locked:** [CURRENT-CONTEXT.md](CURRENT-CONTEXT.md) · [PACKAGE-AND-PRICING.md](PACKAGE-AND-PRICING.md)  
+**Dev plan:** [plans/2026-08-31-rms-fase-1-dev-plan.md](plans/2026-08-31-rms-fase-1-dev-plan.md)  
+**Quote to sign:** hub `2026-08-18-saskia-weiss-vander.md` (RMS local, 24 cuotas)
 
 ---
 
-## Goal (what “done for now” means)
+## Goal
 
-Saskia can **produce, sell via WhatsApp, and register numbers** without Hermes randomly rewriting her admin files — and the team has a **priced backlog** for what comes next (site / admin panel).
+She can run **recipes, inventory, sales, and margins on her PC**, loaded from Drive Excels. Website and planning assistant wait. Dedicated Hermes is not this job.
+
+Build order, data model, and 70 h split: [plans/2026-08-31-rms-fase-1-dev-plan.md](plans/2026-08-31-rms-fase-1-dev-plan.md).
 
 ---
 
 ## Do this in order
 
-### Step 0 — Align package (this week)
+### Step 0 — Sign fase 1
 
 | # | Action | Owner | Done when |
 |---|---|---|---|
-| 0.1 | Confirm she buys **narrow P0** (seal + recipes/inventory/planning + WhatsApp), not full Gs. 2.5M “setup + constitution + Marga + site” | K.W. | Written yes/no on package scope |
-| 0.2 | Send `docs/intake/Cuestionario-Saskia.docx` (or mark answered from 2026-08-12 audio) | K.W. | Answers in repo or WhatsApp summary filed under `docs/intake/` |
-| 0.3 | Confirm business hub: cow email + Google Drive | Saskia | Email/Drive URL noted in session note (no secrets in git) |
+| 0.1 | Present / sign RMS local Gs. 17.500.000 in 24 cuotas (no hosting month) | K.W. | Signed quote + first cuota |
+| 0.2 | Collect: work PC, Drive of the Excels, business name / city | Saskia | Fields on the quote filled or WhatsApp note filed |
+| 0.3 | Do **not** add planning or website to the PDF | Team | PDF matches CURRENT-CONTEXT |
 
-**Out of Step 0:** legal/constitution, full admin panel, own domain (unless she asks).
-
----
-
-### Step 1 — Inventory what already exists (1–2 sessions)
+### Step 1 — Install and load
 
 | # | Action | Owner | Done when |
 |---|---|---|---|
-| 1.1 | Clone/open `saskia-personal-context` locally | Team | Repo available for Friday-style tour |
-| 1.2 | List live workbooks under `04_foodbiz-management-system/data/` and who last changed them | Team | ~~Short inventory~~ → [analysis/existing-assets.md](analysis/existing-assets.md) (git inventory done; Drive map TBD) |
-| 1.3 | Map “what Saskia did in Hermes” → files/Drive/Sheets vs git | Team + Saskia | Gaps list: missing / duplicated / only-on-Drive |
-| 1.4 | Note Hermes context-bleed issue (company topics in her chat) | Team | Decision logged: isolate later vs leave for now |
+| 1.1 | Install RMS on her computer | Team | App opens on that machine |
+| 1.2 | Import Drive Excels (v1 catalog) | Team + Saskia | Products/recipes/stock visible |
+| 1.3 | Confirm import/export Excel works as her backup | Team | She can export |
 
-**Deliverable:** `docs/analysis/existing-assets.md` + effort estimate per gap.
-
----
-
-### Step 2 — Seal Hermes / protect admin files (P0)
+### Step 2 — Fase 1 product
 
 | # | Action | Owner | Done when |
 |---|---|---|---|
-| 2.1 | Reaffirm hard rules: Python regenerates xlsx; no free hand-edits by agents | Team | Rules visible in personal-context `AGENTS.md` (already) + short “how Saskia edits” one-pager in this repo |
-| 2.2 | Define **allowlist** of what Hermes may update later (production rows, waste, stock) vs **never without OK** (prices, recipes, identity) | Team + Saskia | Draft ready: [operations/hermes-edit-policy.md](operations/hermes-edit-policy.md) — confirm with her |
-| 2.3 | Implement gate: agent changes via PR / preview / approval (not silent overwrite) | Team | Documented procedure; at least one dry-run |
-| 2.4 | Give Saskia a single “open here to work” path (Drive and/or local Excel + link to repo backup) | Team | She can open and edit without asking where files are |
+| 2.1 | Dashboard: sales, cost, margin, ranking, low-stock | Team | She can read the business from the home screen |
+| 2.2 | Products, recipes, inventory, sales entry | Team | Day-to-day on that PC |
+| 2.3 | Two review rounds + onboarding on that machine | Team + Saskia | She can use it without us in the room |
 
-**Done for Step 2:** she works in one place; Hermes cannot silently rewrite sealed sheets.
+### Step 3 — After fase 1 (not now)
 
----
-
-### Step 3 — Recipes, inventory, planning operational (P0)
-
-| # | Action | Owner | Done when |
-|---|---|---|---|
-| 3.1 | Load real ingredient prices after her shopping (or guided session) | Saskia (+ team assist) | Inventory prices filled for items she buys |
-| 3.2 | Confirm recipe catalog she will sell first (subset OK) | Saskia | Named list of v1 products |
-| 3.3 | Production planner usable for one real week | Saskia + team | One week planned in workbook/tool |
-| 3.4 | Simple way to register sales numbers (even manual tab) | Team | She can log a sale and see basic profitability signal |
-
-**Done for Step 3:** she can cook from the book, know stock/cost, plan a week, log sales.
-
----
-
-### Step 4 — WhatsApp Business path (P0)
-
-| # | Action | Owner | Done when |
-|---|---|---|---|
-| 4.1 | Create/configure WhatsApp Business on business number | Saskia | WA Business profile live |
-| 4.2 | Decide MVP: free-text orders vs catalog vs web→WA handoff (no full bot required in v1) | Team + Saskia | Choice written in `docs/operations/whatsapp-mvp.md` |
-| 4.3 | Wire “new order → notify Saskia” (WA and/or email on cow account) | Team | Test order received end-to-end |
-| 4.4 | Keep bot automation **out** of personal-context repo until scoped | Team | Scope note only; no surprise bot deploy |
-
-**Done for Step 4:** a customer can order; she gets the alert; she can fulfill.
-
----
-
-### Step 5 — Light website / visual aid (P1, after P0 or parallel if capacity)
-
-| # | Action | Owner | Done when |
-|---|---|---|---|
-| 5.1 | Agree MVP: landing + menu/prices + CTA to WhatsApp (no payment online) | Team + Saskia | One-page brief |
-| 5.2 | Collect logo/photos/texts (or schedule Luana/Marga later) | Saskia | Assets folder or Drive link |
-| 5.3 | Build + host (domain optional) | Team | URL live; change process under monthly hosting if sold |
-| 5.4 | Quote hosting: monthly Gs. 150–200k vs annual ~1.8M as discussed | K.W. | Offer written; she accepts or declines |
-
-**Done for Step 5:** findable page that sends people to WhatsApp.
-
----
-
-### Step 6 — Priced backlog for later (analysis deliverable)
-
-| # | Action | Owner | Done when |
-|---|---|---|---|
-| 6.1 | Estimate admin-panel modules (ingredients, products, purchases, orders, waste, schedules, invoices) | Team | `docs/analysis/admin-panel-estimate.md` with Gs. ranges + phases |
-| 6.2 | Estimate isolate Hermes context/server (Wesley-style) | Team | Optional line item |
-| 6.3 | Legal/constitution + Marga package as deferred SKUs | Team | Listed as Phase 3+, not blocking P0 |
-| 6.4 | Present numbers so she can prioritize | K.W. + Saskia | Call or WhatsApp with ranked choices |
-
-**Done for Step 6:** she has specific numbers; P0 is not blocked by big-system design.
-
----
-
-## Suggested calendar
-
-| When | Focus |
-|---|---|
-| **Now** | Step 0 (scope + questionnaire closure from audio) |
-| **Next working session** | Step 1 inventory + Step 2 seal policy |
-| **Same week / next** | Step 3 data load + Step 4 WA Business MVP |
-| **Following week** | Step 5 site brief (if P0 stable) |
-| **After analysis** | Step 6 quote review |
+| # | Action | When |
+|---|---|---|
+| 3.1 | Public website | Local is running; new quote |
+| 3.2 | Planning assistant Gs. 9.500.000 | She reopens it; not in current PDF |
+| 3.3 | Tables / KDS / SET / WhatsApp bot | Separate quote |
 
 ---
 
 ## Explicitly not next
 
-- Company constitution / legalization  
-- Full multi-database admin platform  
-- Payment gateway / SET invoicing  
-- Separate production server “because Wesley has one” (unless context bleed forces it)  
-- Renaming or mixing this client repo with unrelated project labels  
+- Company constitution  
+- Monthly hosting / phone app  
+- Dedicated Hermes server (“Wesley-style” was a **name error**; that product is John)  
+- Mixing this repo with Johns-Grimoire or website A/B/C packages  
 
 ---
 
-## Checklist (print / paste to WhatsApp)
+## Checklist
 
 ```
-[ ] Package scope confirmed (P0 only vs full setup)
-[ ] Intake answers filed
-[ ] Existing assets inventory written
-[ ] Hermes edit policy written + gate agreed
-[ ] Saskia has one clear place to open admin files
-[ ] Prices loaded for current ingredients
-[ ] V1 product/recipe list agreed
-[ ] One week production plan done
-[ ] Sales log usable
-[ ] WhatsApp Business live
-[ ] Test order → notification works
-[ ] (Optional) Site MVP brief + quote for hosting
-[ ] Admin-panel / later phases priced
+[ ] Quote signed (Gs. 17.500.000 / 24 cuotas)
+[ ] First cuota + PC + Drive
+[ ] RMS installed locally
+[ ] Excel imported
+[ ] Dashboard + recipes + stock + sales usable
+[ ] Two reviews + onboarding
+[ ] Website / planning only if she asks later
 ```
-
----
-
-## File map for this doc set
-
-See full index: [README.md](README.md).
-
-| Doc | Role |
-|---|---|
-| `docs/NEXT-STEPS.md` | **This file** — ordered actions |
-| `docs/INFO-FROM-SASKIA.md` | What she must provide |
-| `docs/DELIVERABLES.md` | What we ship |
-| `docs/PACKAGE-AND-PRICING.md` | Packages + Gs. figures |
-| `docs/sessions/2026-08-12_meeting-audio-notes.md` | Meeting extract |
-| `docs/intake/` | Questionnaire + partial answers |
-| `docs/analysis/existing-assets.md` | Asset inventory |
-| `docs/operations/` | Hermes policy, edit path, WhatsApp MVP |
-
----
-
-*Update this file when a step completes or scope changes. Prefer short checkmarks over rewriting history — add a one-line note under the step.*

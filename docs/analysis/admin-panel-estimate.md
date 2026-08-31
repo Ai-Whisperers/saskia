@@ -1,7 +1,7 @@
 # Admin panel / industrial ops — phased estimate
 
-**Last updated:** 2026-08-12  
-**Status:** Draft ranges for conversation — not a fixed quote  
+**Last updated:** 2026-08-12 (banner 31 Aug 2026)  
+**Status:** **Historical estimate.** Fase 1 is now the **local RMS** at Gs. 17.500.000 / 24 cuotas — see [CURRENT-CONTEXT.md](../CURRENT-CONTEXT.md). Do not sell from the ranges below.  
 **Context:** Meeting audio described many databases/workflows; she wants numbers to prioritize.
 
 ---
@@ -64,14 +64,9 @@ Present as **à la carte phases**, not one “industrial structure” invoice.
 
 ---
 
-### Phase 3 — Agents per workflow
+### Phase 3 — Agents per workflow (not a Saskia SKU)
 
-Admin / marketing / payment / personal agents on isolated context (Wesley-style).
-
-| Item | Notes |
-|---|---|
-| Isolate Hermes context for Saskia | Fixes bleed; infra cost |
-| Area agents | Expensive; only after Phase 0–1 stable |
+Do **not** sell dedicated Hermes / isolated VPS as Saskia’s product. That is **John**. Agent-chat bleed is an ops issue, not this quote.
 
 ---
 

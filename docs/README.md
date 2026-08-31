@@ -11,7 +11,10 @@ Client engagement docs for **Saskia Weiss Vander** (food / bakery business, Para
 
 | Doc | Audience | Purpose |
 |---|---|---|
-| [NEXT-STEPS.md](NEXT-STEPS.md) | Team | Ordered execution plan (P0 → P1 → backlog) |
+| [CURRENT-CONTEXT.md](CURRENT-CONTEXT.md) | Team | **Locked** product + price (31 Aug 2026). Read first |
+| [plans/2026-08-31-rms-fase-1-dev-plan.md](plans/2026-08-31-rms-fase-1-dev-plan.md) | Dev team | Build plan: local RMS, 70 h, 6–8 weeks |
+| [NEXT-STEPS.md](NEXT-STEPS.md) | Team | Ordered execution (sign → install local RMS) |
+| [PACKAGE-AND-PRICING.md](PACKAGE-AND-PRICING.md) | Team | Fase 1 Gs. 17.500.000 / 24 cuotas |
 | [INFO-FROM-SASKIA.md](INFO-FROM-SASKIA.md) | Saskia / K.W. | What she must provide |
 | [DELIVERABLES.md](DELIVERABLES.md) | Team | What we owe her / must have ready |
 
@@ -25,7 +28,8 @@ docs/
 ├── NEXT-STEPS.md             ← ordered steps + checklist
 ├── INFO-FROM-SASKIA.md       ← inputs we need from her
 ├── DELIVERABLES.md           ← outputs we prepare
-├── PACKAGE-AND-PRICING.md    ← scope packages + figures from calls
+├── CURRENT-CONTEXT.md        ← locked product + price (start here)
+├── PACKAGE-AND-PRICING.md    ← fase 1 numbers (12 Aug packages void)
 ├── intake/                   ← questionnaire + answers so far
 ├── analysis/                 ← inventories, estimates, git review
 ├── operations/               ← Hermes policy, WhatsApp MVP, how-to-edit

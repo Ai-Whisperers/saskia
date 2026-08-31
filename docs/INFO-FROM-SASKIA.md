@@ -1,23 +1,20 @@
 # Information Saskia needs to give us
 
-**Last updated:** 2026-08-12  
+**Last updated:** 2026-08-31  
 **How to use:** send this list (or the Spanish questionnaire). Tick when received. Store answers in `intake/answers-from-meetings.md` (no secrets).
 
 ---
 
-## Must-have (blocks P0)
+## Must-have (blocks fase 1 install)
 
 | # | Information | Why | Status |
 |---|---|---|---|
-| 1 | Confirm package: **P0 only** vs full setup (site + Marga + constitution) | Avoid building / billing wrong scope | Open — audio leans P0 |
-| 2 | Business hub: **cow email** + Google Drive (confirm which account) | Everything ties to one place | Mentioned; need explicit confirm |
-| 3 | WhatsApp Business number status (ready / not yet) | Step 4 | Open |
-| 4 | Order channel MVP: free-text / catalog / web→WA | Scope WhatsApp work | Open |
-| 5 | **V1 product list** (which recipes sell first) | Recipes + site + WA catalog | Open |
-| 6 | Current ingredient **prices** (or tickets/photos after shopping) | Inventory costing | Open — she was shopping for pricing |
-| 7 | Where Hermes work lives today (Drive / Sheets / chat only) | Map to git workbooks | Open |
-| 8 | What Hermes must **never** change without OK | Seal policy | Partial — “seal what I did” |
-| 9 | Approval style for agent updates (always / prices only / later) | Hermes gate | Open |
+| 1 | Signed RMS quote (local, 24 cuotas) — not website, not hosting month | Scope is locked in CURRENT-CONTEXT | Open — present hub Word |
+| 2 | **Computer** where the system is installed | Product runs on her PC | Open |
+| 3 | Google Drive of the Excels (which account) | Import v1 | Mentioned; need explicit confirm |
+| 4 | **V1 product / recipe list** she sells first | Catalog | Open |
+| 5 | Current ingredient **prices** (or tickets after shopping) | Costing | Open |
+| 6 | Business name + city / zona (quote blanks) | Onboarding | Open |
 
 ---
 

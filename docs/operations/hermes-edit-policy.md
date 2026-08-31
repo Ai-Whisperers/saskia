@@ -63,12 +63,9 @@ Only after Step 2 gate is live and she opts in:
 
 ## Context bleed
 
-Her Hermes chats currently share company context (e.g. unrelated clients).  
+Her Hermes chats may share company context (e.g. unrelated clients). That is an **agent-chat** issue, not a product to sell her.
 
-| Option | When |
-|---|---|
-| Leave shared for now | Default per 2026-08-12 discussion |
-| Isolate project/server later | If bleed keeps blocking; price separately |
+**Dedicated Hermes on a private VPS is John’s SKU.** Do not quote “Wesley-style isolated Hermes” to Saskia. Her paid product is the **local RMS on her PC**.
 
 ---
 
