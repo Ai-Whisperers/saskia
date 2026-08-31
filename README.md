@@ -1,41 +1,52 @@
-# Saskia — Client repo
+# ⚠️ This repository has been split — see below
 
-Client engagement repository for **Saskia Weiss Vander** (food / bakery business, Paraguay).
+**This is the legacy engagement repo for the Saskia Weiss Vander RMS fase 1
+engagement.** It was archived on 2026-09. New work does NOT go here.
 
-## Start here
+The original single-repo design mixed personal/family data (PII) with the
+RMS app source code. That's now split into two repos:
 
-1. **[docs/CURRENT-CONTEXT.md](docs/CURRENT-CONTEXT.md)** — locked product + price (read this first)  
-2. **[docs/NEXT-STEPS.md](docs/NEXT-STEPS.md)** — ordered following steps  
-3. **[docs/PACKAGE-AND-PRICING.md](docs/PACKAGE-AND-PRICING.md)** — fase 1 numbers  
-4. **[docs/README.md](docs/README.md)** — full documentation index  
+| Repo | Visibility | Contents |
+|---|---|---|
+| **[`Ai-Whisperers/saskia-context`](https://github.com/Ai-Whisperers/saskia-context)** | **private** | Saskia's identity, bank statements, foodbiz workbook system, engagement commercial docs (CURRENT-CONTEXT, PACKAGE-AND-PRICING), session notes, OPSEC posture. **Contains PII.** |
+| **[`Ai-Whisperers/saskia-app`](https://github.com/Ai-Whisperers/saskia-app)** | **public** | The RMS app source code: `app/`, `tests/`, `installer/`, build specs, dev plan, install checklist. **No PII.** |
 
-## What lives here
+If you came here for the **engagement context** (quote, OPSEC posture, who
+Saskia is, food-business workbook system), go to **`saskia-context`**.
 
-| Path | Purpose |
-|---|---|
-| `docs/` | All client documentation (see index) |
-| `docs/intake/` | Questionnaire + answers from meetings |
-| `docs/analysis/` | Assets inventory, estimates, access map |
-| `docs/operations/` | Hermes policy, edit path, WhatsApp MVP |
-| `docs/sessions/` | Meeting notes + raw transcripts |
+If you came here for the **app source code** (FastAPI + SQLite + openpyxl),
+go to **`saskia-app`**.
 
-## What does NOT live here
+## What was here
 
-Personal / OPSEC data (identity, banking) and operational Excel binaries live in:
+The original `Ai-Whisperers/saskia` had 13 commits:
+- 1–4: Visibility decision + INDEX rebuild + relationship-wording fix (now in `saskia-context`)
+- 5–8: Session notes + lineage note (now in `saskia-context`)
+- 9–11: Build specs + tech-stack review + comprehensive-improvements review
+  (3 stay in `saskia-app`, 2 go to `saskia-context`)
+- 12: 21-file pre-signoff skeleton (the build: `app/`, `tests/`, `installer/`,
+  `pyproject.toml`, `LICENSE`, CI workflow — now in `saskia-app`)
 
-- `Ai-Whisperers/saskia-personal-context` → `04_foodbiz-management-system/`
+## Why this URL is preserved
 
-Do **not** copy bank statements, ID docs, or live customer data into this repo.
+We could have deleted this repo. We chose to archive it instead so:
 
-## Related
+- **Existing bookmarks continue to resolve.** Anyone with this URL lands on
+  a useful redirect page rather than a 404.
+- **History is preserved.** The 13-commit history shows the full arc of the
+  engagement, useful for future audits.
+- **Cross-links don't break.** Many docs in `saskia-context` and
+  `saskia-app` reference each other; the archived README is the
+  cross-reference map.
 
-```
-Ai-Whisperers/saskia                  ← this repo (client product docs)
-Ai-Whisperers/saskia-personal-context ← family OPSEC + workbooks + agent rules
-SaskiaWeiss1234/*                     ← Saskia's public bootcamp repos
-```
+## Links
 
-## Status
+- [`Ai-Whisperers/saskia-context`](https://github.com/Ai-Whisperers/saskia-context) (private)
+- [`Ai-Whisperers/saskia-app`](https://github.com/Ai-Whisperers/saskia-app) (public)
+- The locked engagement commercial docs (CURRENT-CONTEXT, PACKAGE-AND-PRICING,
+  NEXT-STEPS) are now in `saskia-context/docs/`.
 
-- **31 Aug 2026:** product is RMS **local on her PC**. Quote: Gs. 17.500.000 in 24 cuotas. No hosting month. Website later. Dedicated Hermes is not this client.  
-- 12 Aug website/P0 packages are historical — see CURRENT-CONTEXT.  
+---
+
+_Archived 2026-09. Read-only. No new issues or PRs accepted._
+_Maintained by Ivan / Erebus / Hermes._
